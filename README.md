@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Custom Range Slider GitHub Solution](https://github.com/MaryAngelique/custom-range-slider)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Custom Range Slider Website](https://custom-range-slider.vercel.app/)
 
 ## My process
 
